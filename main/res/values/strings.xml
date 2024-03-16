@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pr_4_mobile</string>
+    <string name="button_style">Танцевальные стили</string>
+    <string name="button_choreo">Хореографы</string>
+    <string name="secondfragment">SecondFragment</string>
+    <string name="fragment_third">Fragment Third</string>
+</resources>
